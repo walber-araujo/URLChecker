@@ -1,0 +1,32 @@
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+*.hmap
+*.ipa
+
+# SwiftPM specific
+Packages/
+Package.pins
+Package.resolved
+
+# Build artifacts
+*.o
+*.dSYM
+*.app
+*.swp
+*.lock
+
+# User-specific files
+*.user
+*.sublime-workspace
+*.sublime-project
+
+# macOS system files
+.DS_Store

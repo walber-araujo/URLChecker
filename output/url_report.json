@@ -1,0 +1,25 @@
+[
+  {
+    "responseTime" : 0.10192608833312988,
+    "url" : "https:\/\/www.github.com",
+    "success" : true,
+    "statusCode" : 200
+  },
+  {
+    "url" : "https:\/\/www.apple.com",
+    "responseTime" : 0.1322770118713379,
+    "success" : true,
+    "statusCode" : 200
+  },
+  {
+    "success" : false,
+    "url" : "https:\/\/www.youtube.com",
+    "responseTime" : 0.01128697395324707
+  },
+  {
+    "url" : "https:\/\/www.google.com",
+    "success" : true,
+    "responseTime" : 0.23432397842407227,
+    "statusCode" : 200
+  }
+]
